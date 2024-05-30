@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800" height="800" viewBox="0 0 800 800" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1.5625 0 0 1.5625 400 400)" id="QeipjqmITiSHuf1Kdt0fF"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-256, -256)" d="M 459.279 63.989 L 193.251 63.989 C 172.905 63.989 153.551 72.809 140.197 88.175 L 4.314 244.473 C -1.4379999999999997 251.08300000000003 -1.4379999999999997 260.916 4.314 267.533 L 140.197 423.83900000000006 C 153.551 439.19800000000004 172.905 448.0110000000001 193.251 448.0110000000001 L 459.279 448.0110000000001 C 488.395 448.0110000000001 512 424.40600000000006 512 395.2900000000001 L 512 116.716 C 512 87.593 488.395 63.989 459.279 63.989 z M 360.581 338.701 L 308.894 287.029 L 257.222 338.687 L 226.19199999999998 307.672 L 277.865 255.985 L 226.2 204.32 L 257.222 173.298 L 308.894 224.971 L 360.573 173.284 L 391.59499999999997 204.32 L 339.90799999999996 255.999 L 391.609 307.672 L 360.581 338.701 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(2.43 2.43 -0.56 0.56 482.505399568 400.0000021635)" id="H-yz9m0Z5NGwN9uAeatK4"  >
+<path style="stroke: rgb(10,75,124); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(71,71,71); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M -43.19654 -43.19654 L 43.19655 -43.19654 L 43.19655 43.19655 L -43.19654 43.19655 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(-2.43 2.43 -0.56 -0.56 482.5054017316 400)" id="Fz5ZaNWa0brK_-KLj8N71"  >
+<path style="stroke: rgb(10,75,124); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(71,71,71); fill-rule: nonzero; opacity: 1;"  transform=" translate(-0.000005, -0.000005)" d="M -43.19654 -43.19654 L 43.19655 -43.19654 L 43.19655 43.19655 L -43.19654 43.19655 z" stroke-linecap="round" />
+</g>
+</svg>
